@@ -4,10 +4,10 @@ This Gentoo overlay is to install the chikubeam.
 
  * add "https://raw.githubusercontent.com/neotaso/chikubeam-gentoo/master/overlay.xml" in /etc/layman/layman.cfg overlays
 
- * # layman -S 
+ * \# layman -S 
 
- * # layman -a chikubeam
+ * \# layman -a chikubeam
 
- * # emerge -av chikubeam
+ * \# emerge -av chikubeam
 
 Good Luck!
