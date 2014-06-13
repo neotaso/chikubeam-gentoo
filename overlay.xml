@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[chikubeam]]></name>
+    <description lang="en"><![CDATA[Let's chikubeam!!]]></description>
+    <homepage>https://github.com/masawada/chikubeam</homepage>
+    <owner type="person">
+      <email>neotaso@mma.club.uec.ac.jp</email>
+      <name><![CDATA[neotaso]]></name>
+    </owner>
+    <source type="git">https://github.com/.git</source>
+  </repo>
+</repositories>
